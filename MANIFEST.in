@@ -1,0 +1,8 @@
+include LICENSE
+include README
+graft costi/static
+graft costi/templates
+graft costi/cache
+graft costi/confidence_rating
+graft costi/sources
+graft costi/plugins
